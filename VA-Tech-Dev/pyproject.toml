@@ -1,0 +1,9 @@
+[project]
+name = "Va Tech dev"
+version = "0.1.0"
+description = ""
+authors = ["//"]
+requires-python = ">=3.11"
+dependencies = [
+    "flask>=3.1.1",
+]

@@ -1,0 +1,10 @@
+{
+  "discord_token": "MTM4ODU3OTQ1ODkxODkxMjE1Mw.Gchlfk.XN3pjSteLfHD4FBT68OuKewYh0cHEmLNms3IWM",
+  "ftp_path": "./models/",
+  "db": {
+    "host": "srv1423.hstgr.io",
+    "user": "u566328311_BotVATech",
+    "password": "r6vu5J!VCH4ghVk",
+    "database": "u566328311_BotVATech"
+  }
+}
